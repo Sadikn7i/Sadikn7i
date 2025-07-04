@@ -152,6 +152,45 @@ This is the software and technology I use for my data analysis and development w
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  </a>
+
+  <!-- Microsoft Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  </a>
+
+  <!-- QGIS -->
+  <a href="https://qgis.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
+  </a>
+
+  <!-- Leaflet -->
+  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
+  </a>
+
+  <!-- PostGIS -->
+  <a href="https://postgis.net/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://postgis.net/images/logo.svg" alt="PostGIS" width="40" height="40"/>
+  </a>
+
+  <!-- Google Earth Engine -->
+  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Google_Earth_Logo.svg" alt="Google Earth Engine" width="40" height="40"/>
+  </a>
+
+  <!-- Mapbox -->
+  <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Mapbox_logo_2019.svg" alt="Mapbox" width="40" height="40"/>
+  </a>
+
+  <!-- GeoServer -->
+  <a href="http://geoserver.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://geoserver.org/img/geoserver-logo.png" alt="GeoServer" width="40" height="40"/>
+  </a>
 </div>
 
 
