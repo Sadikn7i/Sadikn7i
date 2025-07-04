@@ -206,15 +206,7 @@
 ---
 
 <p align="center">
-  <strong>Thanks for scrolling!</strong> 🌍  
-  <br>
-  <em>In a world full of noise...<br> I use data to find the signal.</em> 📡✨
-</p>
-
-<p align="center">
-  <code>🐾 End of README ░▒▓███</code>
-</p>
-
-<p align="center">
-  💻 🚀 📊 🌍 📚 🐍 💡 🌟  
+  <b>Thanks for visiting!</b> 
+  <i>Signal detected. Noise canceled.</i> ✨<br><br>
+  <code>🐍 ███▓▒░░ 𝓔𝓷𝓭 𝓸𝓯 𝓯𝓲𝓵𝓮 ░░▒▓███</code>
 </p>
