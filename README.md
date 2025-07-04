@@ -6,7 +6,7 @@
 
 ---
 
-### ![Focus](https://img.shields.io/badge/-Focus-00BFFF?style=for-the-badge&labelColor=0a0a0a) 
+### ![Focus](https://img.shields.io/badge/-Focus-FFD700?style=for-the-badge&labelColor=000000)
 `Economics` &nbsp;•&nbsp; `Development Studies` &nbsp;•&nbsp; `Data Analsyis` &nbsp;•&nbsp; `Modeling` &nbsp;•&nbsp; `Curiosity`
 
 ## About Me
