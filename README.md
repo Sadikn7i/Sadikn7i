@@ -191,6 +191,45 @@ This is the software and technology I use for my data analysis and development w
   <a href="http://geoserver.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://geoserver.org/img/geoserver-logo.png" alt="GeoServer" width="40" height="40"/>
   </a>
+   <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  </a>
+
+  <!-- Microsoft Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  </a>
+
+  <!-- QGIS (fallback image) -->
+  <a href="https://qgis.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/QGIS_logo_2013.svg" alt="QGIS" width="40" height="40"/>
+  </a>
+
+  <!-- PostGIS -->
+  <a href="https://postgis.net/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PostGIS_logo.svg" alt="PostGIS" width="40" height="40"/>
+  </a>
+
+  <!-- Google Earth (uses Google Earth logo) -->
+  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Earth_icon.svg" alt="Google Earth Engine" width="40" height="40"/>
+  </a>
+
+  <!-- Mapbox -->
+  <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://seeklogo.com/images/M/mapbox-logo-12B9D4C1D4-seeklogo.com.png" alt="Mapbox" width="40" height="40"/>
+  </a>
+
+  <!-- GeoServer -->
+  <a href="http://geoserver.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://geoserver.org/img/geoserver-logo.png" alt="GeoServer" width="40" height="40"/>
+  </a>
+
+  <!-- Docker (cloud-native tool) -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
 </div>
 
 
