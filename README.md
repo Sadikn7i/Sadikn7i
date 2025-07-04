@@ -1,5 +1,4 @@
-## <font color="green">SADIK</font>
-
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝓢𝓪𝓭𝓲𝓴
 **FROM:** Djibouti <br>
 **BASED IN:** Japan
 
