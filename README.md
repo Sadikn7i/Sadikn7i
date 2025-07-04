@@ -45,7 +45,7 @@
   </a>
 </p>
 
-### ![Developer Toolkit](https://img.shields.io/badge/-Developer%20Toolkit-00BFFF?style=for-the-badge&labelColor=0a0a0a)
+### ![Developer Toolkit](https://img.shields.io/badge/-Developer%20Toolkit-4B0082?style=for-the-badge&labelColor=0D1117)
 <p align="center">
   <a href="https://github.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
