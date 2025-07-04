@@ -18,9 +18,6 @@
 
 [![Followers](https://img.shields.io/github/followers/Sadikn7i?style=social)](https://github.com/Sadikn7i?tab=followers)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadikn7i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sadik's GitHub Stats" />
-</p>
 
 -->
 ## Tools
