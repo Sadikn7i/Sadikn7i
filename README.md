@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Sadik! 👋</h1>
+### Sadik
+
+A journey from Djibouti to Japan, with stops across the globe. My perspective is shaped by the places I've been and the people I've met.
+
+> *I've learned that beneath the surface of every culture, there are stories told in data. I'm here to learn the language.*
+
+My focus is **data analysis**—not just as a technical skill, but as a tool to translate complex global patterns into clear, human insights.
 
 <p align="center">
-  I'm an International Development student from Djibouti with a strong passion for leveraging data to address global challenges.
-  <br><br>
-  I believe that the most effective solutions to complex social and economic issues are data-driven. My goal is to apply data science, statistical modeling, and visualization to generate actionable insights for sustainable development. Here on GitHub, I'm building my skills to turn data into a force for good.
+🇩🇯 │ │ │ 🌍 │ │ │ 🇯🇵
 </p>
 
 ## About Me
