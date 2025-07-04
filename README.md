@@ -12,8 +12,6 @@
 
 ## About Me
 
-## About Me
-
 [![](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sadikaden1999@gmail.com)
