@@ -1,14 +1,14 @@
-### Sadik
+## SADIK
 
-A journey from Djibouti to Japan, with stops across the globe. My perspective is shaped by the places I've been and the people I've met.
+**FROM:** Djibouti <br>
+**BASED IN:** Japan
 
-> *I've learned that beneath the surface of every culture, there are stories told in data. I'm here to learn the language.*
+*The world is full of noise. I use data to find the signal.*
 
-My focus is **data analysis**—not just as a technical skill, but as a tool to translate complex global patterns into clear, human insights.
+---
 
-<p align="center">
-🇩🇯 │ │ │ 🌍 │ │ │ 🇯🇵
-</p>
+**FOCUS** &nbsp; / &nbsp; Data Analysis & Modeling <br>
+**TOOLS** &nbsp; / &nbsp; Python, R, SQL, Curiosity
 
 ## About Me
 
