@@ -21,19 +21,8 @@
 
 ## ![Tools](https://img.shields.io/badge/-Tools%20&%20Tech%20Stack-FFD700?style=for-the-badge&labelColor=000000)
 
-## 🛠️ Tools & Tech Stack
 
-![Tech Stack](https://img.shields.io/badge/-This%20is%20the%20software%20and%20technology%20I%20use%20for%20my%20data%20analysis%20and%20development%20work.-4B0082?style=for-the-badge&labelColor=0D1117)
-
-![Tech Stack](https://img.shields.io/badge/-This%20is%20the%20software%20and%20technology%20I%20use%20for%20my%20data%20analysis%20and%20development%20work.-00BFFF?style=for-the-badge&labelColor=0a0a0a)
-
-![Tech Stack](https://img.shields.io/badge/-This%20is%20the%20software%20and%20technology%20I%20use%20for%20my%20data%20analysis%20and%20development%20work.-8e44ad?style=for-the-badge&labelColor=1c1c1c)
-
-![Tech Stack](https://img.shields.io/badge/-This%20is%20the%20software%20and%20technology%20I%20use%20for%20my%20data%20analysis%20and%20development%20work.-FFD700?style=for-the-badge&labelColor=000000)
-
-![Tech Stack](https://img.shields.io/badge/-This%20is%20the%20software%20and%20technology%20I%20use%20for%20my%20data%20analysis%20and%20development%20work.-A9A9A9?style=for-the-badge&labelColor=1a1a1a)
-
-### Statistical & GIS Software
+### ![Statistical & GIS Software](https://img.shields.io/badge/-Statistical%20&%20GIS%20Software-00BFFF?style=for-the-badge&labelColor=0a0a0a)
 
 <p align="center">
   <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> 
@@ -56,7 +45,7 @@
   </a>
 </p>
 
-### Developer Toolkit
+### ![Developer Toolkit](https://img.shields.io/badge/-Developer%20Toolkit-00BFFF?style=for-the-badge&labelColor=0a0a0a)
 <p align="center">
   <a href="https://github.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
@@ -78,7 +67,7 @@
   </a>
 </p>
 
-## 🛠️ Technology Stack
+## ![Technology Stack](https://img.shields.io/badge/-Technology%20Stack-00BFFF?style=for-the-badge&labelColor=0a0a0a)
 
 <div style="text-align: center;">
   <!-- HTML -->
