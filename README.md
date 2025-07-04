@@ -158,10 +158,6 @@ This is the software and technology I use for my data analysis and development w
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  </a>
 
    <!-- Microsoft Azure -->
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
@@ -191,11 +187,6 @@ This is the software and technology I use for my data analysis and development w
   <!-- Heroku -->
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  </a>
-
-  <!-- OpenStreetMap -->
-  <a href="https://www.openstreetmap.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/OpenStreetMap_logo.svg" alt="OpenStreetMap" width="40" height="40"/>
   </a>
 
   <!-- Cloudflare -->
