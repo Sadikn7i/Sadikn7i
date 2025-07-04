@@ -22,7 +22,7 @@
 ## ![Tools](https://img.shields.io/badge/-Tools%20&%20Tech%20Stack-FFD700?style=for-the-badge&labelColor=000000)
 
 
-### ![Statistical Softwares](https://img.shields.io/badge/-Statistical%20&-4B0082?style=for-the-badge&labelColor=0D1117)
+### ![Statistical Softwares](https://img.shields.io/badge/-Statistical%20-4B0082?style=for-the-badge&labelColor=0D1117)
 
 <p align="center">
   <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> 
