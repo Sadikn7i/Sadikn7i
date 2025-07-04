@@ -2,7 +2,7 @@
 **FROM:** Djibouti <br>
 **BASED IN:** Japan
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&width=600&lines=The+world+is+full+of+noise.;I+use+data+to+find+the+signal.)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&width=600&lines=The+world+is+full+of+noise...;I+use+data+to+find+the+signal." alt="animated sentence" />
 
 ---
 
