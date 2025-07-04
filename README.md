@@ -203,14 +203,14 @@
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Sadikn7i's Trophies" /></p>
 
-
-### 🐍 3D Contribution Snake
-
 ---
 
 <p align="center">
   <b>Thanks for scrolling!</b> 🌍<br>
   <i>Signal detected. Noise canceled.</i> 📡✨<br><br>
-  <code>🐍 ███▓▒░░ 𝓔𝓷𝓭 𝓸𝓯 𝓯𝓲𝓵𝓮 ░░▒▓███</code><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=400&lines=Goodbye,+human.+;Keep+decoding+the+data+🌌" alt="Typing animation goodbye" />
+  <code>🐍 ███▓▒░░ 𝓔𝓷𝓭 𝓸𝓯 𝓯𝓲𝓵𝓮 ░░▒▓███</code>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=380&lines=Goodbye,+human.;Keep+decoding+the+data+🌌" alt="Typing animation goodbye" />
 </p>
