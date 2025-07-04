@@ -1,4 +1,4 @@
-# Hi, I'm Sadik
+### <font color="green">Sadik</font>
 
 **FROM:** Djibouti <br>
 **BASED IN:** Japan
@@ -7,7 +7,7 @@
 
 ---
 
-**FOCUS** &nbsp; / &nbsp; Data Analysis & Modeling <br>
+**FOCUS** &nbsp; / &nbsp; Economics, Development, Data Analysis & Modeling <br>
 **TOOLS** &nbsp; / &nbsp; Python, R, Stata, SQL, Curiosity
 
 
