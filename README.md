@@ -12,10 +12,17 @@
 
 ## About Me
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:cxyfreedom@gmail.com)
-[![](https://img.shields.io/github/stars/cxyfreedom?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/cxyfreedom?color=27da6b&logo=Handshake)](https://github.com/cxyfreedom?tab=followers)
+## About Me
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sadikaden1999@gmail.com)
+
+[![Followers](https://img.shields.io/github/followers/Sadikn7i?style=social)](https://github.com/Sadikn7i?tab=followers)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadikn7i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sadik's GitHub Stats" />
+</p>
 
 -->
 ## Tools
