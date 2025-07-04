@@ -15,8 +15,10 @@
 [![](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sadikaden1999@gmail.com)
 [![Followers](https://img.shields.io/github/followers/Sadikn7i?style=social)](https://github.com/Sadikn7i?tab=followers)
-
-
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/sadikadendirir)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sadiq_n7i/)
+  [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sadik-Dirir-2)
+  
 -->
 ## Tools
 
