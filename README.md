@@ -1,13 +1,20 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝓢𝓪𝓭𝓲𝓴
-**FROM:** Djibouti <br>
-**BASED IN:** Japan
+<h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝓢𝓪𝓭𝓲𝓴</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&width=600&lines=The+world+is+full+of+noise...;I+use+data+to+find+the+signal." alt="animated sentence" />
+<p align="center">
+  <strong>FROM:</strong> Djibouti &nbsp; | &nbsp; <strong>BASED IN:</strong> Japan
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&width=600&lines=The+world+is+full+of+noise...;I+use+data+to+find+the+signal." alt="Animated quote" />
+</p>
 
 ---
 
-**FOCUS** &nbsp; / &nbsp; Economics, Development, Data Analysis & Modeling <br>
-**TOOLS** &nbsp; / &nbsp; Python, R, Stata, SQL, Curiosity
+<p align="center">
+  <strong>FOCUS</strong> &nbsp; / &nbsp; Economics, Development, Data Analysis & Modeling <br>
+  <strong>TOOLS</strong> &nbsp; / &nbsp; Python, R, Stata, SQL, Curiosity
+</p>
+
 
 ## About Me
 
