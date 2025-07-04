@@ -204,12 +204,11 @@
 <p><img src="https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Sadikn7i's Trophies" /></p>
 
 
-### 🐍 My 3D Contribution Snake
+### 🐍 3D Contribution Snake
 
 ![3D Contribution Snake](https://raw.githubusercontent.com/Sadikn7i/Sadikn7i/output/github-contribution-grid-snake.svg)
 
 ---
 
-Thanks for scrolling!  
-The signal has been found.  
-🐍 █████▓▒░ 𝓔𝓷𝓭 𝓸𝓯 𝓯𝓲𝓵𝓮 ░▒▓█████
+Thanks for visiting! 🧠  
+🐍 █████▓▒░ End of README ░▒▓█████
