@@ -22,7 +22,50 @@
 -->
 ## Tools
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+## 🛠️ Tools & Tech Stack
+
+This is the software and technology I use for my data analysis and development work.
+
+### Statistical & GIS Software
+<p align="center">
+  <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/> 
+  </a>
+  <a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/> 
+  </a>
+  <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logo=stata&logoColor=white" alt="Stata"/> 
+  </a>
+  <a href="https://www.spss-tutorials.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/SPSS-CC292F?style=for-the-badge&logo=ibm%20spss&logoColor=white" alt="SPSS"/> 
+  </a>
+  <a href="https://www.eviews.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/EViews-0D47A1?style=for-the-badge&logoColor=white" alt="EViews"/> 
+  </a>
+</p>
+
+### Developer Toolkit
+<p align="center">
+  <a href="https://github.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://www.pycharm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
+  </a>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> 
+    <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> 
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> 
+  </a>
+</p>
 
 ## Technology Stack
 
