@@ -193,7 +193,7 @@
 
 
 
-## Stats
+## ![Stats](https://img.shields.io/badge/-Stats-FFD700?style=for-the-badge&labelColor=000000)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="Sadikn7i's Stats" /></p>
 
