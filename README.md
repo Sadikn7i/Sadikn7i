@@ -206,7 +206,7 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting!</b> 
+  <b>Thanks for visiting!</b>  <br>
   <i>Signal detected. Noise canceled.</i> ✨<br><br>
   <code>🐍 ███▓▒░░ 𝓔𝓷𝓭 𝓸𝓯 𝓯𝓲𝓵𝓮 ░░▒▓███</code>
 </p>
