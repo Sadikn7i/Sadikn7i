@@ -69,8 +69,6 @@ This is the software and technology I use for my data analysis and development w
   <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> 
   </a>
-  
-  </a>
 </p>
 
 ## 🛠️ Technology Stack
