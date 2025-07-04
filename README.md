@@ -27,12 +27,16 @@
 This is the software and technology I use for my data analysis and development work.
 
 ### Statistical & GIS Software
+
 <p align="center">
-  <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/> 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   </a>
   <a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/> 
+  </a>
+    <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/> 
   </a>
   <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logo=stata&logoColor=white" alt="Stata"/> 
@@ -42,6 +46,25 @@ This is the software and technology I use for my data analysis and development w
   </a>
   <a href="https://www.eviews.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/EViews-0D47A1?style=for-the-badge&logoColor=white" alt="EViews"/> 
+  </a>
+  
+  <a href="https://github.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/> 
+  </a>
+  <a href="https://www.pycharm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="pycharm"/> 
+  </a>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/> 
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
+  </a> 
+  <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="centos"/> 
   </a>
 </p>
 
