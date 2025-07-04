@@ -18,7 +18,7 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sadiq_n7i/)
   [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sadik-Dirir-2)
   
--->
+
 ## Tools
 
 ## 🛠️ Tools & Tech Stack
