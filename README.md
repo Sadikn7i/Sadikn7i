@@ -206,11 +206,15 @@
 ---
 
 <p align="center">
-  <strong>Thanks for scrolling!</strong> 🌍<br>
-  <em>In a world full of noise... the signal has been found.</em> 📡✨<br><br>
+  <strong>Thanks for scrolling!</strong> 🌍  
+  <br>
+  <em>In a world full of noise...<br> I use data to find the signal.</em> 📡✨
+</p>
+
+<p align="center">
   <code>🐾 End of README ░▒▓███</code>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=400&lines=Goodbye,+human.;Stay+curious+🌌" alt="Typing animation goodbye" />
+  💻 🚀 📊 🌍 📚 🐍 💡 🌟  
 </p>
