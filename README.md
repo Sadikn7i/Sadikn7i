@@ -1,6 +1,18 @@
-# Hi, I'm cxyfreedom
+# Hi, I'm Sadik
+<h1 align="center">Sadik 📈</h1>
 
-A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
+<p align="center">
+  📍 Djibouti <br>
+  Studying <b>International Development</b>, exploring the world through <b>Data Science</b>.
+</p>
+
+<p align="center">
+  My passion is using modeling and analysis to find patterns and solutions to real-world social challenges.
+</p>
+
+<p align="center">
+  <b>Interests:</b> Statistical Modeling | Data Visualization | Machine Learning | Public Policy Analysis
+</p>
 
 ## About Me
 
