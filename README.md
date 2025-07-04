@@ -67,7 +67,7 @@
   </a>
 </p>
 
-## ![Technology Stack](https://img.shields.io/badge/-Technology%20Stack-00BFFF?style=for-the-badge&labelColor=0a0a0a)
+## ![Technology Stack](https://img.shields.io/badge/-Technology%20Stack-4B0082?style=for-the-badge&labelColor=0D1117)
 
 <div style="text-align: center;">
   <!-- HTML -->
