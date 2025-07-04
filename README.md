@@ -163,14 +163,9 @@ This is the software and technology I use for my data analysis and development w
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   </a>
 
-  <!-- Microsoft Azure -->
+   <!-- Microsoft Azure -->
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-
-  <!-- QGIS -->
-  <a href="https://qgis.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/QGIS_logo_2013.svg" alt="QGIS" width="40" height="40"/>
   </a>
 
   <!-- Leaflet -->
@@ -178,24 +173,34 @@ This is the software and technology I use for my data analysis and development w
     <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
   </a>
 
-  <!-- PostGIS -->
-  <a href="https://postgis.net/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PostGIS_logo.svg" alt="PostGIS" width="40" height="40"/>
-  </a>
-
-  <!-- Google Earth Engine -->
-  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Earth_icon.svg" alt="Google Earth Engine" width="40" height="40"/>
-  </a>
-
-  <!-- Mapbox -->
-  <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://seeklogo.com/images/M/mapbox-logo-12B9D4C1D4-seeklogo.com.png" alt="Mapbox" width="40" height="40"/>
-  </a>
-
   <!-- GeoServer -->
   <a href="http://geoserver.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://geoserver.org/img/geoserver-logo.png" alt="GeoServer" width="40" height="40"/>
+  </a>
+
+  <!-- DigitalOcean -->
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
+  </a>
+
+  <!-- Netlify -->
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
+  </a>
+
+  <!-- Heroku -->
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
+  </a>
+
+  <!-- OpenStreetMap -->
+  <a href="https://www.openstreetmap.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/OpenStreetMap_logo.svg" alt="OpenStreetMap" width="40" height="40"/>
+  </a>
+
+  <!-- Cloudflare -->
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
   </a>
 </div>
 
