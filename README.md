@@ -202,3 +202,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Sadikn7i's Top Languages" /></p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Sadikn7i's Trophies" /></p>
+
+
+
+<img src="https://github.com/Sadikn7i/Sadikn7i/blob/main/assets/github-contribution-grid-snake.svg" alt="3D Contribution Snake Animation" />
