@@ -6,13 +6,15 @@
 
 ---
 
-### 🎯 Focus
-**Economics**, **Development**, **Data Analysis** & **Modeling**
+<p align="center">
+  <strong>FOCUS</strong><br>
+  Economics · Development · Data Analysis & Modeling
+</p>
 
-### 🧰 Tools I Use
-Python / R / Stata / SQL / Curiosity
-
-
+<p align="center">
+  <strong>TOOLS</strong><br>
+  Python · R · Stata · SQL · Curiosity
+</p>
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)
