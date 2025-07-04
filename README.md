@@ -44,6 +44,9 @@ This is the software and technology I use for my data analysis and development w
   <a href="https://www.eviews.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/EViews-0D47A1?style=for-the-badge&logoColor=white" alt="EViews"/> 
   </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
 </p>
 
 ### Developer Toolkit
@@ -65,9 +68,6 @@ This is the software and technology I use for my data analysis and development w
   </a> 
   <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> 
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   </a>
 </p>
 
