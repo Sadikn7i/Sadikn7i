@@ -15,6 +15,23 @@
   <strong>TOOLS</strong><br>
   Python · R · Stata · SQL · Curiosity
 </p>
+
+
+
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝓢𝓪𝓭𝓲𝓴
+
+**From:** Djibouti &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; **Based in:** Japan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=The+world+is+full+of+noise...;I+use+data+to+find+the+signal." alt="Typing animation" />
+
+---
+
+### 🎯 Focus  
+_Economics • Development • Data Analysis • Modeling_
+
+### 🧠 Tools I Use  
+`Python` &nbsp;•&nbsp; `R` &nbsp;•&nbsp; `Stata` &nbsp;•&nbsp; `SQL` &nbsp;•&nbsp; `Curiosity`
+
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)
