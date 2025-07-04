@@ -1,17 +1,10 @@
 # Hi, I'm Sadik
-<h1 align="center">Sadik 📈</h1>
+<h1 align="center">Sadik | Bridging Development & Data</h1>
 
 <p align="center">
-  📍 Djibouti <br>
-  Studying <b>International Development</b>, exploring the world through <b>Data Science</b>.
-</p>
-
-<p align="center">
-  My passion is using modeling and analysis to find patterns and solutions to real-world social challenges.
-</p>
-
-<p align="center">
-  <b>Interests:</b> Statistical Modeling | Data Visualization | Machine Learning | Public Policy Analysis
+  I stand at the intersection of two fields: International Development and Data Science. From my perspective in Djibouti, I'm passionate about connecting the rich, human-centered questions of global development with the clear, quantitative answers that data can provide.
+  <br><br>
+  My goal is to use statistical modeling and analysis to help build a more equitable and evidence-based future. This GitHub is my journey in learning the tools to do just that.
 </p>
 
 ## About Me
