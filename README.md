@@ -19,7 +19,7 @@
   [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sadik-Dirir-2)
   
 
-## Tools
+## ![Tools](https://img.shields.io/badge/-Tools%20&%20Tech%20Stack-FFD700?style=for-the-badge&labelColor=000000)
 
 ## 🛠️ Tools & Tech Stack
 
