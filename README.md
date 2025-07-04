@@ -1,15 +1,16 @@
-## What a journey it's been! 🚀
+# Hi, I'm Sadik
 
-Hey, I'm Sadik! My adventure has taken me from Djibouti 🇩🇯, across the world, and has now landed me in Japan 🇯🇵 for my next chapter: a deep dive into **data analysis**.
+**FROM:** Djibouti <br>
+**BASED IN:** Japan
 
-I'm obsessed with using data to decode the world around me. It's like having a map to find hidden treasure in a sea of information!
+*The world is full of noise. I use data to find the signal.*
 
-Right now I'm focused on:
-- Uncovering stories in complex datasets
-- Building predictive models
-- Visualizing insights in powerful ways
+---
 
-Always exploring. Always learning. Let's connect! ✨
+**FOCUS** &nbsp; / &nbsp; Data Analysis & Modeling <br>
+**TOOLS** &nbsp; / &nbsp; Python, R, Stata, SQL, Curiosity
+
+
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
