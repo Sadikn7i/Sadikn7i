@@ -26,6 +26,7 @@
 ![Tech Stack](https://img.shields.io/badge/-This%20is%20the%20software%20and%20technology%20I%20use%20for%20my%20data%20analysis%20and%20development%20work.-44cc11?style=for-the-badge&labelColor=222222)
 
 
+
 ### Statistical & GIS Software
 
 <p align="center">
