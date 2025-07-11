@@ -196,13 +196,13 @@
 
 ## ![Stats](https://img.shields.io/badge/-Stats-FFD700?style=for-the-badge&labelColor=000000)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="Sadikn7i's Stats" /></p>
+![Sadikn7i's Stats](https://github-readme-stats.vercel.app/api?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadikn7i&theme=material-palenight&hide_border=false" alt="Sadikn7i's Streak" /></p>
+![Sadikn7i's Streak](https://github-readme-streak-stats.demolab.com?user=Sadikn7i&theme=material-palenight&hide_border=false)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Sadikn7i's Top Languages" /></p>
+![Sadikn7i's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Sadikn7i's Trophies" /></p>
+![Sadikn7i's Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
