@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&width=600&lines=Depuis+l'heure+de+l'enfance,+je+n'ai+pas+été." alt="Animated quote" style="max-width: 100%;" />
 
 
+
 ---
 
 ### ![Focus](https://img.shields.io/badge/-Focus-FFD700?style=for-the-badge&labelColor=000000)
