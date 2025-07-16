@@ -203,7 +203,7 @@
 
 ![Sadikn7i's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&layout=compact&hide_border=true&include_all_commits=true&count_private=true&title_color=9f5fde&text_color=EFEFEF&icon_color=9f5fde&bg_color=0d1117,22074d,9f5fde)
 
-![Sadikn7i's Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=flat&no-frame=false&no-bg=false&margin-w=15&column=-1)
+![Sadikn7i's Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&column=5&row=1)
 
 ---
 
