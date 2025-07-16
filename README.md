@@ -201,7 +201,7 @@
 
 ![Sadikn7i's Streak](https://streak-stats.demolab.com/?user=Sadikn7i&theme=material-palenight&hide_border=false)
 
-![Sadikn7i's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Sadikn7i's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Sadikn7i's Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
