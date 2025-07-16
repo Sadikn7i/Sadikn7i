@@ -205,7 +205,7 @@
 
 ![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
 
-![Sadikn7i's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Sadikn7i's Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ---
 
 <p align="center">
