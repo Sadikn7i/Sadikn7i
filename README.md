@@ -2,16 +2,6 @@
 
 > 🇩🇯 **From:** Djibouti &nbsp;&nbsp;&nbsp; 🌏 **Based in:** Japan  
 ### Countries Visited & Lived
-
-<p>
-  <img src="https://img.shields.io/badge/-Djibouti-0099CC?style=flat&logo=passport&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Japan-red?style=flat&logo=japan&logoColor=white" />
-</p>
-
----
-
-### ✈️ Countries I've Visited
-
 <p>
   🇵🇱 Poland &nbsp;&nbsp; 🇫🇷 France &nbsp;&nbsp; 🇹🇷 Turkey &nbsp;&nbsp; 🇮🇳 India &nbsp;&nbsp; 🇲🇾 Malaysia  
   🇪🇹 Ethiopia &nbsp;&nbsp; 🇪🇬 Egypt &nbsp;&nbsp; 🇰🇪 Kenya &nbsp;&nbsp; 🇯🇴 Jordan &nbsp;&nbsp; 🇶🇦 Qatar
