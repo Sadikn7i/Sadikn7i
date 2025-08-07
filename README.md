@@ -9,8 +9,8 @@
 
 
 ### ![Focus](https://img.shields.io/badge/-Focus-FFD700?style=for-the-badge&labelColor=000000)
-`Economics` &nbsp;•&nbsp; `Development Studies` &nbsp;•&nbsp; `Data Analsyis` &nbsp;•&nbsp; `Modeling` &nbsp;•&nbsp; `Web Development`
-
+`Economics` &nbsp;•&nbsp; `Development Studies` &nbsp;•&nbsp; `Data Analsyis` &nbsp;•&nbsp; `Modeling` &nbsp;•&nbsp; `Web Development` &nbsp;•&nbsp; `Machine Learning` &nbsp;•&nbsp; `Cloud Computing`
+ 
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)](https://visitor-badge.laobi.icu/badge?page_id=Sadikn7i.Sadikn7i)
