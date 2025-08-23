@@ -210,7 +210,6 @@
 
 ![Sadikn7i's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadikn7i&theme=merko&hide_border=false)
 
-![Sadikn7i's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&layout=compact&hide_border=true&include_all_commits=true&count_private=true&title_color=9f5fde&text_color=EFEFEF&icon_color=9f5fde&bg_color=0d1117,22074d,9f5fde)
 
 ![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
 
