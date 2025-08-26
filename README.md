@@ -206,7 +206,7 @@
 
 ## ![Stats](https://img.shields.io/badge/-Stats-FFD700?style=for-the-badge&labelColor=000000)
 
-
+![Sadikn7i's Stats](https://github-readme-stats.vercel.app/api?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Sadikn7i's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadikn7i&theme=merko&hide_border=false)
 
