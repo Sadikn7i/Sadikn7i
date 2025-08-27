@@ -214,7 +214,7 @@
 
 ![Sadikn7i's Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github-profile-trophy.vercel.app/?Sadikn7i-ma&margin-w=15)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Sadikn7i)
 
 ---
 
