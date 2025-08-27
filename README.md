@@ -214,6 +214,8 @@
 
 ![Sadikn7i's Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
+![GitHub Achievements](https://github-readme-achievements.vercel.app/api/?user=Sadikn7i&theme=dark&column=3)
+
 ---
 
 <p align="center">
