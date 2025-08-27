@@ -212,7 +212,7 @@
 
 ![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&cache_bust=1)](https://github.com/Sadikn7i)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sadikn7i&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Sadikn7i)
 
 ---
 
