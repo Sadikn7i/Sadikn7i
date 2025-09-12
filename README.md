@@ -2,7 +2,7 @@
 
 > 🇩🇯 **From:** Djibouti &nbsp;&nbsp;&nbsp; 🌏 **Based in:** Japan  
 ### Countries Visited & Lived
-🇵🇱 Poland &nbsp;&nbsp; 🇫🇷 France &nbsp;&nbsp; 🇹🇷 Turkey &nbsp;&nbsp; 🇮🇳 India &nbsp;&nbsp; 🇲🇾 Malaysia &nbsp;&nbsp; 🇪🇹 Ethiopia &nbsp;&nbsp; 🇪🇬 Egypt &nbsp;&nbsp; 🇰🇪 Kenya &nbsp;&nbsp; 🇯🇴 Jordan &nbsp;&nbsp; 🇶🇦 Qatar
+🇵🇱 Poland &nbsp;&nbsp; 🇫🇷 France &nbsp;&nbsp; 🇹🇷 Turkey &nbsp;&nbsp; 🇮🇳 India &nbsp;&nbsp; 🇲🇾 Malaysia &nbsp;&nbsp; 🇪🇹 Ethiopia &nbsp;&nbsp; 🇪🇬 Egypt &nbsp;&nbsp; 🇰🇪 Kenya &nbsp;&nbsp; 🇯🇴 Jordan &nbsp;&nbsp; 🇶🇦 
 
 
 
