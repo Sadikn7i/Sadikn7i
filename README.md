@@ -110,15 +110,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
 
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
 
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -129,11 +121,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-
+  
   <!-- Express.js -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
@@ -149,11 +137,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
-  <!-- Redis -->
-  <a href="https://redis.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>
-
  
   <!-- Docker (cloud-native tool) -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
@@ -164,25 +147,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 
-
    <!-- Microsoft Azure -->
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
 
-  <!-- Leaflet -->
-  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
-  </a>
-
   <!-- GeoServer -->
   <a href="http://geoserver.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://geoserver.org/img/geoserver-logo.png" alt="GeoServer" width="40" height="40"/>
-  </a>
-
-  <!-- DigitalOcean -->
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/>
   </a>
 
   <!-- Netlify -->
@@ -195,10 +167,6 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
   </a>
 
-  <!-- Cloudflare -->
-  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
-  </a>
 </div>
 
 
