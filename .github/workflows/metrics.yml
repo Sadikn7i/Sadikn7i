@@ -12,30 +12,21 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # This token is necessary for the stats to be accurate.
           token: ${{ secrets.METRICS_TOKEN }}
           user: Sadikn7i
-
-          # --- General Appearance ---
-          # Use a popular, stylish theme. Other options: dracula, gruvbox, github_dark
-          template: classic
-          # Using the tokyonight theme for a better look
           template: tokyonight
           config_timezone: Asia/Tokyo
           config_animations: yes
-
-          # --- Plugins & Layout ---
-          # This section includes multiple plugins for a richer display.
           base: header, activity, community
-          
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: jupyter notebook
-
+          
+          # This line is now disabled, so Jupyter Notebook will be shown
+          # plugin_languages_ignored: jupyter notebook
+          
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_sections: "changed, added, removed"
