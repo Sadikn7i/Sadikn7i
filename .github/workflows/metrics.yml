@@ -1,23 +1,19 @@
 # .github/workflows/metrics.yml
-# ...
+# ... (keep the top part of your file the same)
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Sadikn7i
-          template: github_dark
-          config_timezone: Asia/Tokyo
-
-          # This line adds a base section for your profile stats
-          base: header, activity, community
-
-          # Language plugin with a custom title
+          
+          # Change this line to use a new theme
+          template: dracula
+          
+          # You can also add animations
+          config_animations: yes
+          
+          base: ""
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_languages_title: "My Favorite Languages"
-
-          # Add a plugin for total lines of code
-          plugin_lines: yes
-
-          # Add an isometric contribution calendar
-          plugin_isocalendar: yes
+          plugin_languages_layout: compact
+          config_timezone: Asia/Tokyo
