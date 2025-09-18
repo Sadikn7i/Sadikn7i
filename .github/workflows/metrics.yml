@@ -11,8 +11,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # This is the most important line.
-          # It MUST use your powerful secret token.
           token: ${{ secrets.METRICS_TOKEN }}
           
           user: Sadikn7i
@@ -24,4 +22,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_layout: compact
           template: classic
-          config_timezone: America/New_York
+          
+          # This line has been updated for Japan
+          config_timezone: Asia/Tokyo
