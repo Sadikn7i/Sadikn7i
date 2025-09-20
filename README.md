@@ -177,6 +177,8 @@
 
 ![My Top Languages](https://github.com/Sadikn7i/Sadikn7i/blob/main/github-metrics.svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&layout=donut-vertical)](https://github.com/Sadikn7i/github-readme-stats)
+
 ![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
 
 
