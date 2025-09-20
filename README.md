@@ -177,8 +177,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&stats_format=bytes&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=484f58&border_color=21262d)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&stats_format=bytes&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=484f58&border_color=21262d)
-
 ![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
 
 
