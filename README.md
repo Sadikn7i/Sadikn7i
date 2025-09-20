@@ -177,6 +177,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&stats_format=bytes)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&stats_format=bytes&theme=tokyonight)
+
 ![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
 
 
