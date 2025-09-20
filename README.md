@@ -176,6 +176,7 @@
 ![Sadikn7i's Stats](https://github-readme-stats.vercel.app/api?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![My Top Languages](https://github.com/Sadikn7i/Sadikn7i/blob/main/github-metrics.svg)
+// ![My Top Languages](https://github.com/Sadikn7i/Sadikn7i/blob/main/github-metrics.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&stats_format=bytes)
 
