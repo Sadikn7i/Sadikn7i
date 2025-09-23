@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Sadikn7i
-          template: tokyonight
+          template: classic   # <-- changed here
           config_timezone: Asia/Tokyo
           config_animations: yes
           base: header, activity, community
@@ -23,10 +23,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          
-          # This line is now disabled, so Jupyter Notebook will be shown
-          # plugin_languages_ignored: jupyter notebook
-          
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_sections: "changed, added, removed"
