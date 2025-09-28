@@ -173,16 +173,15 @@
 
 ## ![Stats](https://img.shields.io/badge/-Stats-FFD700?style=for-the-badge&labelColor=000000)
 
-![Sadikn7i's Stats](https://github-readme-stats.vercel.app/api?username=Sadikn7i&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&stats_format=bytes&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=484f58&border_color=21262d)
-
-![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
-
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sadikn7i&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&layout=compact&langs_count=7&theme=dark"/>
 </p>
+
+
+![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
+
+
 
 ---
 
