@@ -4,7 +4,7 @@
 ### Countries Visited & Lived
 🇵🇱 Poland &nbsp;&nbsp; 🇫🇷 France &nbsp;&nbsp; 🇹🇷 Turkey &nbsp;&nbsp; 🇮🇳 India &nbsp;&nbsp; 🇲🇾 Malaysia &nbsp;&nbsp; 🇪🇹 Ethiopia &nbsp;&nbsp; 🇪🇬 Egypt &nbsp;&nbsp; 🇰🇪 Kenya &nbsp;&nbsp; 🇯🇴 Jordan &nbsp;&nbsp; 🇶🇦 Qatar
 
-
+[![View CV](https://img.shields.io/badge/View-CV-58A6FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Sadikn7i/Sadikn7i/blob/main/SADIK_ADEN_DIRIR_Github%20Version%20(2).pdf)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=250&color=58A6FF&width=600&height=120&lines=Dans+un+monde+rempli+de+bruit,;Clarity+becomes+the+greatest+challenge.;%D9%84%D8%B0%D9%84%D9%83%D8%8C+%D8%A3%D8%B3%D8%AA%D8%AE%D8%AF%D9%85+%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA;%E4%BF%A1%E5%8F%B7%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%80%82&multiline=true" alt="Animated quote: Dans un monde rempli de bruit, Clarity becomes the greatest challenge. لذلك، أستخدم البيانات 信号を見つけるために。" style="max-width: 100%;" />
 
