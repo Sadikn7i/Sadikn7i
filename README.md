@@ -21,9 +21,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sadikaden1999@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Sadikn7i?style=social)](https://github.com/Sadikn7i?tab=followers)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/sadikadendirir)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sadiq_n7i/)
+ [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sadiq_n7i/)
   [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sadik-Dirir-2)
-  
+<a href="https://www.linkedin.com/in/sadik-aden-a24440385/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ## ![Tools](https://img.shields.io/badge/-Tools%20&%20Tech%20Stack-FFD700?style=for-the-badge&labelColor=000000)
 
