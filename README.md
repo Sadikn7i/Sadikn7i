@@ -29,7 +29,7 @@
 
 ## ![Tools](https://img.shields.io/badge/-Tools%20&%20Tech%20Stack-FFD700?style=for-the-badge&labelColor=000000)
 
-### ![AI Technology](https://img.shields.io/badge/-Statistical%20Softwares-4B0082?style=for-the-badge&labelColor=0D1117)
+### ![AI Technology](https://img.shields.io/badge/-AI%20TECHNOLOGY-4B0082?style=for-the-badge&labelColor=0D1117)
 <p align="center">
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
