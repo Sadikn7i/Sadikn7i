@@ -28,16 +28,18 @@
 </a>
 
 ## ![Tools](https://img.shields.io/badge/-Tools%20&%20Tech%20Stack-FFD700?style=for-the-badge&labelColor=000000)
-> AI Technology
-<p>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/GPT--3-OpenAI-1976D2?style=for-the-badge&logo=quasar&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-BERT-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+
+### ![AI Technology](https://img.shields.io/badge/-Statistical%20Softwares-4B0082?style=for-the-badge&labelColor=0D1117)
+<p align="center">
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
+  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="GPT-3 OpenAI" src="https://img.shields.io/badge/GPT--3-OpenAI-1976D2?style=for-the-badge&logo=quasar&logoColor=white"></a>
+  <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="BERT" src="https://img.shields.io/badge/-BERT-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 </p>
+
 
 ### ![Statistical Softwares](https://img.shields.io/badge/-Statistical%20Softwares-4B0082?style=for-the-badge&labelColor=0D1117)
 
