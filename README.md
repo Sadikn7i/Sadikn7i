@@ -186,8 +186,27 @@
 ## ![Stats](https://img.shields.io/badge/-Stats-FFD700?style=for-the-badge&labelColor=000000)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sadikn7i/Sadikn7i/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark"/>
 </p>
+
+
+
+### Contribution Calendar
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sadikn7i/Sadikn7i/main/metrics-calendar.svg" alt="Calendar"/>
+</p>
+
+### Most Used Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sadikn7i/Sadikn7i/main/metrics-languages.svg" alt="Languages"/>
+</p>
+
+### Lines of Code
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sadikn7i/Sadikn7i/main/metrics-lines.svg" alt="Lines"/>
+</p>
+
+
 
 ---
 
