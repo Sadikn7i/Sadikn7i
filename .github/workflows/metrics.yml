@@ -1,8 +1,8 @@
-name: GitHub Metrics
+name: Improved GitHub Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: {branches: ["master", "main"]}
 
 jobs:
   metrics:
@@ -10,10 +10,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          # Use GitHub token (no need for METRICS_TOKEN)
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Basic config
@@ -21,21 +19,27 @@ jobs:
           template: classic
           base: header, activity, community
           config_timezone: Asia/Tokyo
+          config_animations: yes
           
-          # Isometric calendar
+          # Isometric calendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Languages
+          # Languages plugin
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          plugin_languages_colors: github
           plugin_languages_sections: most-used
-          plugin_languages_indepth: no
+          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
           
-          # Lines of code
+          # Lines plugin
           plugin_lines: yes
+          plugin_lines_history_limit: 1
           plugin_lines_sections: repositories
           plugin_lines_repositories_limit: 4
-
+          
+          # Commit settings
+          committer_branch: main
+          committer_message: "Update metrics"
