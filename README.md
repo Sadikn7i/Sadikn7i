@@ -189,9 +189,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sadikn7i&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikn7i&layout=compact&langs_count=7&theme=dark"/>
 </p>
-
-![Sadikn7i's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark" alt="Sadikn7i's Profile Summary"/>
+</p>
 
 
 ---
