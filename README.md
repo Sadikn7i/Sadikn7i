@@ -285,19 +285,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadikn7i&theme=solarized_dark"/>
 </p>
 
+![Contribution Calendar](https://img.shields.io/badge/-Contribution%20Calendar-FFD700?style=for-the-badge&labelColor=000000)
 
-
-### Contribution Calendar
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sadikn7i/Sadikn7i/main/metrics-calendar.svg" alt="Calendar"/>
 </p>
 
-### Most Used Languages
+![Most Used Languages](https://img.shields.io/badge/-Most%20Used%20Languages-FFD700?style=for-the-badge&labelColor=000000)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sadikn7i/Sadikn7i/main/metrics-languages.svg" alt="Languages"/>
 </p>
 
-### Lines of Code
+![Lines of Code](https://img.shields.io/badge/-Lines%20of%20Code-FFD700?style=for-the-badge&labelColor=000000)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sadikn7i/Sadikn7i/main/metrics-lines.svg" alt="Lines"/>
 </p>
