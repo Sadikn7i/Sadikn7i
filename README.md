@@ -88,6 +88,27 @@
   <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> 
   </a>
+  <!-- Notion -->
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/>
+  </a>
+
+  <!-- IntelliJ IDEA -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+
+  <!-- WebStorm -->
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/>
+  </a>
+
+  <!-- Android Studio -->
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
+
+ 
 </p>
 
 ## ![Technology Stack](https://img.shields.io/badge/-Technology%20Stack-4B0082?style=for-the-badge&labelColor=0D1117)
