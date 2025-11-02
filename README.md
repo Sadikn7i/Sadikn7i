@@ -180,6 +180,81 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
   </a>
 
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
+
+  <!-- Angular -->
+  <a href="https://angular.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  </a>
+
+  <!-- Svelte -->
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
+  </a>
+
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  </a>
+
+  <!-- Laravel -->
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  </a>
+
+  <!-- Spring Boot -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+
+  <!-- Flutter -->
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+
+  <!-- Ollama -->
+  <a href="https://ollama.ai/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="Ollama" width="40" height="40"/>
+  </a>
+
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+
+  <!-- Redis -->
+  <a href="https://redis.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  </a>
+
+  <!-- Electron -->
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
+  </a>
+
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+
+  <!-- GraphQL -->
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+  </a>
+
+  <!-- OpenAI -->
+  <a href="https://openai.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/>
+  </a>
+
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+
 </div>
 
 
