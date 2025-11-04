@@ -4,10 +4,10 @@
 ### Countries Visited & Lived
 🇵🇱 Poland &nbsp;&nbsp; 🇫🇷 France &nbsp;&nbsp; 🇹🇷 Turkey &nbsp;&nbsp; 🇮🇳 India &nbsp;&nbsp; 🇲🇾 Malaysia &nbsp;&nbsp; 🇪🇹 Ethiopia &nbsp;&nbsp; 🇪🇬 Egypt &nbsp;&nbsp; 🇰🇪 Kenya &nbsp;&nbsp; 🇯🇴 Jordan &nbsp;&nbsp; 🇶🇦 Qatar
 
-[![View CV](https://img.shields.io/badge/View-CV-58A6FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githack.com/Sadikn7i/Sadikn7i/main/SADIK_ADEN_DIRIR_Github%20Version%20(2).pdf)
+<a href="https://drive.google.com/uc?export=view&id=1KXIancnxlo3YZk0JxiIVPxmHPzUP8ihJ" target="_blank">
+  <img src="https://img.shields.io/badge/View-CV-58A6FF?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="View CV">
+</a>
 
-
-[![View CV](https://img.shields.io/badge/View-CV-58A6FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/uc?export=view&id=1KXIancnxlo3YZk0JxiIVPxmHPzUP8ihJ)
 
 
 
