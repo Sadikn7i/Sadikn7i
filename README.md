@@ -354,10 +354,6 @@
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
   </a>
 
-  <!-- Terraform -->
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  </a>
 
   <!-- Jenkins -->
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
