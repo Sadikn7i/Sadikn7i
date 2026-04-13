@@ -275,6 +275,30 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   </a>
+<!-- Cisco Packet Tracer -->
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="Cisco Packet Tracer" width="40" height="40"/>
+  </a>
+
+  <!-- Unity -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+  </a>
+
+  <!-- Oracle Database -->
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40"/>
+  </a>
+
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Kali Linux" width="40" height="40"/>
+  </a>
+
+  <!-- Wireshark -->
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
+  </a>
 
 </div>
 
