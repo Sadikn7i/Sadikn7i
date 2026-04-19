@@ -42,13 +42,17 @@
 ### ![Statistical Softwares](https://img.shields.io/badge/-Statistical%20Softwares-4B0082?style=for-the-badge&labelColor=0D1117)
 
 <p align="center">
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPSS-CC292F?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/EViews-0D47A1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPSS-CC292F?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EViews-0D47A1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAS-1C6FAD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white"/>
 </p>
 
 ### ![Developer Toolkit](https://img.shields.io/badge/-Developer%20Toolkit-4B0082?style=for-the-badge&labelColor=0D1117)
