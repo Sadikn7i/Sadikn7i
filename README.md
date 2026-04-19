@@ -132,7 +132,6 @@
     <td align="center"><img src="https://geoserver.org/img/geoserver-logo.png" alt="GeoServer" width="40" height="40"/><br>GeoServer</td>
   </tr>
 </table>
----
 
 ## ![Stats](https://img.shields.io/badge/-Stats-FFD700?style=for-the-badge&labelColor=000000)
 
