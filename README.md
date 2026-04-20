@@ -1,6 +1,6 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝓢𝓪𝓭𝓲𝓴
 
-> 🇩🇯 **From:** Djibouti &nbsp;&nbsp;&nbsp; 🌏 **Based in:** Japan  
+> 🇩🇯 **From:** Djibouti &nbsp;&nbsp;&nbsp; **Based in:** Japan  
 ### Countries Visited & Lived
 🇵🇱 Poland &nbsp;&nbsp; 🇫🇷 France &nbsp;&nbsp; 🇹🇷 Turkey &nbsp;&nbsp; 🇮🇳 India &nbsp;&nbsp; 🇲🇾 Malaysia &nbsp;&nbsp; 🇪🇹 Ethiopia &nbsp;&nbsp; 🇪🇬 Egypt &nbsp;&nbsp; 🇰🇪 Kenya &nbsp;&nbsp; 🇯🇴 Jordan &nbsp;&nbsp; 🇶🇦 Qatar
 
